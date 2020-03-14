@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is a basic Javascript calculator built using the React Framework, modeled after the iPhone Calculator.  Looking to spice up your view?  Click on "Light" or "Dark" mode to see how the calculator changes.
 
+Check It Out!
+URL: https://master.d212q6z5b4vmww.amplifyapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
