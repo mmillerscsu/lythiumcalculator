@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About Project
+
+This is a basic Javascript calculator built using the React Framework, modeled after the iPhone Calculator.  Looking to spice up your view?  Click on "Light" or "Dark" mode to see how the calculator changes.
+
 ## Available Scripts
 
 In the project directory, you can run:
